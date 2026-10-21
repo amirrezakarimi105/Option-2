@@ -1,0 +1,21 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "tse-option-analyzer",
+  "outputfilename": "tse-option-analyzer",
+  "frontend:dir": ".",
+  "frontend:install": "npm install",
+  "frontend:build": "npx vite build",
+  "frontend:dev:watcher": "npx vite --host 127.0.0.1",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "TSE Option Trader",
+    "email": "info@tse-options.local"
+  },
+  "info": {
+    "companyName": "TSE Option Analysis",
+    "productName": "سامانه اکسل و تحلیل‌گر استراتژی‌های اختیار معامله",
+    "productVersion": "2.0.0",
+    "copyright": "Copyright 2026",
+    "comments": "سامانه دسکتاپ پرسرعت و سبک اختیار معامله بورس تهران با Wails v2 و Go و React"
+  }
+}

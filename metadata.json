@@ -1,0 +1,8 @@
+{
+  "name": "تحلیل آپشن (TradersArena)",
+  "description": "سامانه اکسل تحلیل زنجیره اختیار معامله و استراتژی‌های پیشرفته بازار بورس ایران با مشاور هوشمند جمنای، محاسبات بلک‌شولز و یونانی‌ها",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
